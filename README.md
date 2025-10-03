@@ -5,15 +5,15 @@
 
 <!-- Professional Introduction -->
 <div align="center">
-  ## 👋 Hello, I'm Mayank Singh Sengar
-  ### 🚀 AI/ML Enthusiast | Data Science Explorer | Algorithm Architect
+  👋 Hello, I'm Mayank Singh Sengar  
+  🚀 AI/ML Enthusiast | Data Science Explorer | Algorithm Architect
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&width=435&lines=Machine+Learning+Engineer;Data+Science+Student;Python+Developer;AI+Researcher;Problem+Solver" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+🧑‍💻 About Me
 
 I'm a passionate computer science student with a deep fascination for **Artificial Intelligence** and **Machine Learning**. Currently pursuing my degree while actively working on cutting-edge AI projects that solve real-world problems.
 
@@ -24,61 +24,62 @@ I'm a passionate computer science student with a deep fascination for **Artifici
 
 ---
 
-## 🚀 Featured Projects
+🚀 Featured Projects
 
-### 🛍️ [AI Fashion Recommendation Engine](https://fashion-recommendor.vercel.app)
-> **Tech Stack**: Python, TensorFlow, Computer Vision, Flask, React
-- Developed an intelligent fashion recommendation system using deep learning
-- Implemented CNN models for style recognition and similarity matching
-- Achieved 89% accuracy in fashion item classification
-- Deployed as a full-stack web application with modern UI/UX
+🛍️ [AI Fashion Recommendation Engine](https://fashion-recommendor.vercel.app)  
+**Tech Stack**: Python, TensorFlow, Computer Vision, Flask, React  
+- Developed an intelligent fashion recommendation system using deep learning  
+- Implemented CNN models for style recognition and similarity matching  
+- Achieved 89% accuracy in fashion item classification  
+- Deployed as a full-stack web application with modern UI/UX  
 
-### 🤖 Facial Recognition Attendance System
-> **Tech Stack**: Python, OpenCV, face_recognition, MySQL
-- Built a real-time attendance tracking system using computer vision
-- Integrated facial recognition with database management
-- Optimized for laptop camera performance with 95% recognition accuracy
+🤖 IRCTC Dummy Website  
+**Tech Stack**: HTML, CSS, JavaScript  
+- Developed a full-featured IRCTC site clone simulating train ticket booking processes  
+- Implemented user-friendly interfaces for searching trains and managing bookings  
+- Focused on responsive design and interactive UI elements  
+- Demonstrated project as a web development showcase to simulate IRCTC functionalities  
 
 ---
 
-## 💻 Tech Stack
+💻 Tech Stack
 
 <div align="center">
 
-### 🤖 AI/ML & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+🤖 AI/ML & Data Science  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
-### 🌐 Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+🌐 Web Development  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🗄️ Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+🗄️ Databases & Cloud  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🛠️ Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+🛠️ Development Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mss1708&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -95,26 +96,12 @@ I'm a passionate computer science student with a deep fascination for **Artifici
 
 ---
 
-## 🏆 Achievements & Certifications
-
-<div align="center">
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mss1708&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
-</div>
-
-### 📜 Certifications
-- **Machine Learning Specialization** - Stanford University (Coursera)
-- **Deep Learning Specialization** - deeplearning.ai
-- **Python for Data Science** - IBM
-- **AWS Cloud Practitioner** - Amazon Web Services
-
----
-
-## 🌱 Current Learning Path
+🌱 Current Learning Path
 
 
 ---
 
-## 📈 Coding Activity
+📈 Coding Activity
 
 <!--START_SECTION:activity-->
 <!-- This section will be auto-updated by GitHub Actions -->
@@ -122,7 +109,7 @@ I'm a passionate computer science student with a deep fascination for **Artifici
 
 ---
 
-## 📝 Latest Blog Posts
+📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- This section will be dynamically updated -->
@@ -130,7 +117,7 @@ I'm a passionate computer science student with a deep fascination for **Artifici
 
 ---
 
-## 🤝 Let's Connect
+🤝 Let's Connect
 
 <div align="center">
 
@@ -144,17 +131,11 @@ I'm a passionate computer science student with a deep fascination for **Artifici
 
 ---
 
-## 📊 Profile Views
+📊 Profile Views
 
 <div align="center">
   ![Profile Views](https://komarev.com/ghpvc/?username=mss1708&label=Profile%20views&color=0e75b6&style=for-the-badge)
 </div>
-
----
-
-## 🐍 Contribution Snake Animation
-
-![Snake animation](https://github.com/mss1708/mss1708/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
